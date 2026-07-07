@@ -1,16 +1,59 @@
-## Hi there 👋
+# 🎮 Elvis Chalas Reyna
 
-<!--
-**ElvisCR97/ElvisCR97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![PC Gaming](https://img.shields.io/badge/PC%20DEVS-101010?style=for-the-badge&logo=windows&logoColor=0078D4)
+![Mobile Gaming](https://img.shields.io/badge/MOBILE%20DEVS-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-Here are some ideas to get you started:
+### Game Developer | Software Engineer | Unreal Engine 5 Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Engineering and Information Technology Professional. Specialized in designing and implementing interactive systems, core gameplay mechanics, and performance optimization for PC and mobile platforms using Unreal Engine 5.
+
+---
+
+## 🛠️ Tech Stack & Technical Focus
+
+* 🕹️ **Game Engine:** Unreal Engine 5 (UE5)
+* 💻 **Languages:** Advanced C++ | Visual Scripting with Blueprints
+* 📱 **Platforms:** Native PC development and Mobile optimization (Android)
+* 🌿 **Version Control:** Git / GitHub
+* 🏗️ **Architecture:** Scalable systems design, combat logic, and modular mechanics integration
+
+---
+
+## 📌 Featured Projects
+
+### 🎒 Mobile Inventory Kit (⭐ Key Project)
+
+An advanced, modular inventory system designed specifically for touchscreens and optimized for mobile devices in Unreal Engine 5.
+
+🔍 **Components:**
+* **Hybrid Architecture:** Optimized structural logic combining C++ for data handling and Blueprints for the user interface.
+* **Responsive UI:** Dynamic containers featuring a native drag-and-drop system tailored for mobile screens.
+* **Data Persistence:** Integrated save system to store inventory states locally and securely.
+* **Memory Optimization:** Efficient data structures to prevent performance drops on mobile hardware.
+
+🎯 **Impact:**
+✔️ Drastically reduced integration times for inventory systems in new mobile projects.
+✔️ Fluid user experience adapted to multiple touchscreen resolutions with zero performance loss.
+✔️ Clean, modular, and fully documented code ready for production.
+
+🔗 [View Repository / Documentation](https://github.com/ElvisCR97/Mobile-Inventory-Kit)
+
+---
+
+### 🪃 Weapon Return System
+
+Advanced combat mechanic in Unreal Engine 5 that calculates complex trajectories for the automatic return of thrown weapons.
+
+🔍 **Components:**
+* **Bézier Curves Calculation:** C++ mathematical implementation for organic and dynamic weapon return trajectories.
+* **Collision Detection:** Adaptive line tracing system to prevent obstacles during weapon retrieval.
+* **Modular Components:** Designed as an independent Actor Component for seamless integration into any character via Blueprints.
+
+🎯 **Impact:**
+✔️ Full real-time control over weapon speed, rotation, and flight curves.
+✔️ Decoupled mechanic that facilitates quick migration to new prototypes within minutes.
+
+🔗 [View Repository / Documentation](https://github.com/ElvisCR97/Weapon-Return-System)
