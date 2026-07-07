@@ -29,7 +29,7 @@ Computer Engineer | Specialized in Software Engineering | Extensive experience a
 An advanced, modular inventory system designed specifically for touchscreens and optimized for mobile devices in Unreal Engine 5.
 
 🔍 **Components:**
-* **Hybrid Architecture:** Optimized structural logic combining C++ for data handling and Blueprints for the user interface.
+* **Hybrid Architecture:** Optimized structural logic combining data handling and Blueprints for the user interface.
 * **Responsive UI:** Dynamic containers featuring a native drag-and-drop system tailored for mobile screens.
 * **Data Persistence:** Integrated save system to store inventory states locally and securely.
 * **Memory Optimization:** Efficient data structures to prevent performance drops on mobile hardware.
@@ -48,7 +48,7 @@ An advanced, modular inventory system designed specifically for touchscreens and
 Advanced combat mechanic in Unreal Engine 5 that calculates complex trajectories for the automatic return of thrown weapons.
 
 🔍 **Components:**
-* **Bézier Curves Calculation:** C++ mathematical implementation for organic and dynamic weapon return trajectories.
+* **Bézier Curves Calculation:** mathematical implementation for organic and dynamic weapon return trajectories.
 * **Collision Detection:** Adaptive line tracing system to prevent obstacles during weapon retrieval.
 * **Modular Components:** Designed as an independent Actor Component for seamless integration into any character via Blueprints.
 
