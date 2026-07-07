@@ -8,7 +8,7 @@
 
 ### Game Developer | Software Engineer | Unreal Engine 5 Specialist
 
-Computer Engineering and Information Technology Professional. Specialized in designing and implementing interactive systems, core gameplay mechanics, and performance optimization for PC and mobile platforms using Unreal Engine 5.
+Computer Engineer (UNPRG) | Specialized in Software Engineering | Extensive experience as a Game Developer. Specialized in designing and implementing interactive systems, core gameplay mechanics, and performance optimization for PC and mobile platforms using Unreal Engine 5.
 
 ---
 
