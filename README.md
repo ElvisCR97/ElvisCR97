@@ -10,6 +10,7 @@
 
 Computer Engineer | Specialized in Software Engineering | Extensive experience as a Game Developer. Specialized in designing and implementing interactive systems, core gameplay mechanics, and performance optimization for PC and mobile platforms using Unreal Engine 5.
 
+I have always been passionate about video games. Some time ago, I decided to turn my passion into my profession, and today I am a software engineer and game developer. I am the founder of the Leveling Games channel, where I upload content related to Unreal Engine 5 and everything involving the gaming world. I dedicate myself to offering solutions, advanced systems, and professional-grade assets on the FAB platform, in addition to teaching other developers how to build their own projects through optimized technical tutorials.
 ---
 
 ## 🛠️ Tech Stack & Technical Focus
