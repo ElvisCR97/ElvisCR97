@@ -96,6 +96,23 @@ Advanced grappling hook infrastructure for Unreal Engine that enables swift, res
 
 ---
 
+### 📱 Control Kit Deluxe
+
+Advanced mobile interface infrastructure for Unreal Engine designed exclusively for Android and iOS, combining modular touch inputs and real-time HUD positioning into a production-ready suite.
+
+🔍 **Components:**
+
+* **Custom HUD Mobile PRO:** High-performance widget management system that allows players to dynamically modify the layout, scale, and visibility of on-screen action buttons, status bars, and interaction panels.
+* **Easy Joystick Framework:** Deeply customizable virtual joystick system featuring runtime adjustments for structural sizing, color profiles, responsive deadzones, and anchoring vectors.
+* **Input Optimization:** Lightweight calculation layer engineered to provide fluid, ultra-low latency tracking for simultaneous touch inputs and multi-axis movement on mobile touchscreens.
+* **Plug-and-Play Integration:** Centralized Blueprint architecture built to instantly attach to any character controller or existing HUD, offering seamless compatibility with advanced movement frameworks like ALS.
+
+🎯 **Impact:** ✔️ Total visual control over user-defined mobile layouts without hardcoded index dependencies. ✔️ Decoupled design that facilitates rapid prototyping and immediate deployment across mobile platforms.
+
+🔗 [View Repository / Documentation](https://github.com/ElvisCR97/Control-Kit-Deluxe)
+
+---
+
 ## 🛠️ Skills Técnicos
 
 ### 🎮 Game Engines & Core
