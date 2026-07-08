@@ -113,7 +113,7 @@ Advanced mobile interface infrastructure for Unreal Engine designed exclusively 
 
 ---
 
-## 🛠️ Más Sistemas y Mecánicas para Unreal Engine
+## 🛠️ More Systems and Mechanics for Unreal Engine
 
 A collection of production-ready, highly optimized gameplay architectures, mechanical toolkits, and interface systems built for Unreal Engine.
 
@@ -128,13 +128,13 @@ A collection of production-ready, highly optimized gameplay architectures, mecha
 | **📦 Mobile Inventory Kit** | Android / iOS | Highly optimized structural database for dynamic item storage, drag-and-drop interfaces, and slot management. | [VIEW SYSTEM](https://www.fab.com/listings/d5c154a1-f591-4055-b635-ce68c0926244) |
 | **🛹 Ultimate Grind System** | PC / Console | Advanced physics-based rail-grinding mechanic with real-time vector balancing and dynamic spline snapping. | [VIEW SYSTEM](https://www.fab.com/listings/9a6100c8-04bd-4972-be65-b437e4964256) |
 | **🏔️ Grinding Kit Deluxe** | PC / Console | Comprehensive movement bundle combining Grinding Physics Core mechanics and advanced traversal logic. | [VIEW SYSTEM](https://www.fab.com/listings/0f95bd6c-99e2-4806-a261-122b6625d9dc) |
-| **🛹 Grinding Physics Core** | PC / Console | Lightweight, dedicated physics sub-system managing sliding friction, acceleration curves, and slope momentum. | [VIEW SYSTEM](#) |
-| **🎮 Control Kit Deluxe S2** | Android / iOS | Next-generation mobile layout framework featuring modular screen configurations and advanced input binding. | [VIEW SYSTEM](#) |
-| **🕹️ Easy Joystick** | Android / iOS | Encapsulated touch input component offering runtime sizing, deadzone profiling, and vector anchoring. | [VIEW SYSTEM](#) |
-| **📺 Custom HUD Mobile PRO** | Android / iOS | Independent mobile widget layout engine for real-time positioning, scaling, and visibility adjustment of buttons. | [VIEW SYSTEM](#) |
-| **🎭 Hero Select PRO** | PC / Console / Mobile | Data-driven character selection interface with integrated stat tracking and modular 3D character display logic. | [VIEW SYSTEM](#) |
-| **🗺️ Mobile Game Template** | Android / iOS | Production-ready boilerplate project containing pre-configured mobile inputs, basic UI navigation, and optimization layouts. | [VIEW SYSTEM](#) |
-| **🏗️ Advanced Mechanics V1** | PC / Console | Legacy movement and interaction architecture bundle designed for foundational gameplay prototyping. | [VIEW SYSTEM](#) |
+| **🛹 Grinding Physics Core** | PC / Console | Lightweight, dedicated physics sub-system managing sliding friction, acceleration curves, and slope momentum. | [VIEW SYSTEM](https://www.fab.com/listings/759d8e87-9033-456d-bd22-b87a5b0e5440) |
+| **🎮 Control Kit Deluxe S2** | Android / iOS | Next-generation mobile layout framework featuring modular screen configurations and advanced input binding. | [VIEW SYSTEM](https://www.fab.com/listings/b738fe11-38d2-44ba-9886-523eb4c8f957) |
+| **🕹️ Easy Joystick** | Android / iOS | Encapsulated touch input component offering runtime sizing, deadzone profiling, and vector anchoring. | [VIEW SYSTEM](https://www.fab.com/listings/92505f52-5ba1-4877-9bce-7ada669af333) |
+| **📺 Custom HUD Mobile PRO** | Android / iOS | Independent mobile widget layout engine for real-time positioning, scaling, and visibility adjustment of buttons. | [VIEW SYSTEM](https://www.fab.com/listings/daea7b8a-2729-4172-b650-126bdb99cc6c) |
+| **🎭 Hero Select PRO** | PC / Console / Mobile | Data-driven character selection interface with integrated stat tracking and modular 3D character display logic. | [VIEW SYSTEM](https://www.fab.com/listings/69443949-c904-4680-b1b5-b47c7f0b61ef) |
+| **🗺️ Mobile Game Template** | Android / iOS | Production-ready boilerplate project containing pre-configured mobile inputs, basic UI navigation, and optimization layouts. | [VIEW SYSTEM](https://www.fab.com/listings/f8c4425c-6e31-4a12-97c8-15eeaeb42a4f) |
+| **🏗️ Advanced Mechanics V1** | PC / Console | Legacy movement and interaction architecture bundle designed for foundational gameplay prototyping. | [VIEW SYSTEM](https://www.fab.com/listings/081356d7-8321-4979-9e2e-4350c98748d0) |
 
 *Click on each system name to view in FAB.*
 
