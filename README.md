@@ -113,9 +113,9 @@ Data Management Frameworks | Item Pickup, Dropping & Swapping Mechanics | Modula
 
 ## 📬 Contact
 
-* 💻 **GitHub:** [Leveling Games](https://github.com)
-* 💼 **LinkedIn:** [Your Name / Brand Profile](https://www.linkedin.com/in/elvis-chalas-reyna-25137041a)
-* 🎥 **YouTube:** [Leveling Games Channel](https://www.youtube.com/@levelinggames)
+* 💻 **GitHub:** [ElvisCR97](https://github.com/ElvisCR97)
+* 💼 **LinkedIn:** [Elvis Chalas Reyna](https://www.linkedin.com/in/elvis-chalas-reyna-25137041a)
+* 🎥 **YouTube:** [Leveling Games](https://www.youtube.com/@levelinggames)
 * 👥 **Discord:** [Join Our Support Server](discord.gg/FFUkXSDk2x)
   
 ---
