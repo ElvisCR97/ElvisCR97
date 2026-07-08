@@ -74,3 +74,24 @@ Advanced traversal mechanic in Unreal Engine 5 that allows players to shoot and 
 🎯 **Impact:** ✔️ Full real-time control over weapon range, usage limits, and custom meshes. ✔️ Decoupled mechanic that facilitates quick migration to new prototypes within minutes.
 
 🔗 [View Repository / Documentation](https://github.com/ElvisCR97/Zipline-Weapon-System)
+
+---
+
+## 🛠️ Skills Técnicos
+
+### 🎮 Game Engines & Core
+Unreal Engine 5 (UE5) | Unreal Engine 4 (UE4)
+
+### 📐 Physics Computation & Advanced Math
+Vector Math & Trigonometry | Trajectory Calculations (Bézier Curves) | Dot Product Surface Alignment | Velocity, Inertia & Acceleration Handling | Friction & Slopes Physics (Grinding Systems)
+
+### 🧩 Gameplay Engineering & Architecture
+Component-Based Architecture (Decoupled Systems) | Data-Driven Mechanics (Data Tables Hierarchy) | Collision Detection & Line Tracing Systems | Weapon Manipulation (Equip, Throw, Recall Systems) | Character Traversal & Locomotion Mechanics
+
+### 📱 Mobile Development & UI Frameworks
+Touch Input Optimization (Virtual Joysticks & Custom HUDs) | Dynamic UI/UX Architecture | Multi-Platform Deployment (Android Package Optimization) | System Resource Management & Performance Profiling
+
+### 📦 Inventory & Data Systems
+Data Management Frameworks | Item Pickup, Dropping & Swapping Mechanics | Modular Customization Arrays | System Integration API Design
+
+---
