@@ -92,7 +92,7 @@ Advanced grappling hook infrastructure for Unreal Engine that enables swift, res
 
 🎯 **Impact:** ✔️ Out-of-the-box support for modular movement frameworks (such as Advanced Locomotion System). ✔️ Complete aesthetic control over integrated VFX particles, sound sub-systems, and contextual animation triggers.
 
-🔗 [View Repository / Documentation](https://github.com)
+🔗 [View Repository / Documentation](https://github.com/ElvisCR97/Easy-Hook-System)
 
 ---
 
