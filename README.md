@@ -5,6 +5,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![PC Gaming](https://img.shields.io/badge/PC%20DEVS-101010?style=for-the-badge&logo=windows&logoColor=0078D4)
 ![Mobile Gaming](https://img.shields.io/badge/MOBILE%20DEVS-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=LevelingGames&color=blue&style=flat-square&label=Profile+views" alt="Profile Views">
 
 ### Game Developer | Software Engineer | Unreal Engine 5 Specialist
 
