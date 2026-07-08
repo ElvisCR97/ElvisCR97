@@ -19,7 +19,7 @@ I have always been passionate about video games. Some time ago, I decided to tur
 
 * 🕹️ **Game Engine:** Unreal Engine 5 (UE5)
 * 💻 **Languages:** Advanced C++ | Visual Scripting with Blueprints
-* 📱 **Platforms:** Native PC development and Mobile optimization (Android)
+* 📱 **Platforms:** Mobile and PC development | Mobile optimization (Android)
 * 🌿 **Version Control:** Git / GitHub
 * 🏗️ **Architecture:** Scalable systems design, combat logic, and modular mechanics integration
 
