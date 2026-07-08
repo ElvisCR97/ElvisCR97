@@ -95,3 +95,29 @@ Touch Input Optimization (Virtual Joysticks & Custom HUDs) | Dynamic UI/UX Archi
 Data Management Frameworks | Item Pickup, Dropping & Swapping Mechanics | Modular Customization Arrays | System Integration API Design
 
 ---
+
+## 🎯 Professional Focus
+
+✔️ Performance first
+✔️ Modularity as a standard
+✔️ Decoupled & scalable architectures
+✔️ Production-ready optimization
+✔️ Data-driven engineering
+
+## 📈 Impact
+
+* Reduction in prototyping and integration time for advanced mechanics
+* Improvement in cross-platform deployment stability and frame rates
+* Centralization of asset configuration via optimized data frameworks
+* High-performance execution of complex physical and mathematical logic
+
+## 📬 Contact
+
+* 💻 **GitHub:** [Leveling Games](https://github.com)
+* 💼 **LinkedIn:** [Your Name / Brand Profile](https://www.linkedin.com/in/elvis-chalas-reyna-25137041a)
+* 🎥 **YouTube:** [Leveling Games Channel](https://www.youtube.com/@levelinggames)
+* 👥 **Discord:** [Join Our Support Server](discord.gg/FFUkXSDk2x)
+  
+---
+
+| Engineering scalable, highly-optimized, and production-ready mechanics for Unreal Engine 🧩🚀
