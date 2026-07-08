@@ -58,3 +58,19 @@ Advanced combat mechanic in Unreal Engine 5 that calculates complex trajectories
 ✔️ Decoupled mechanic that facilitates quick migration to new prototypes within minutes.
 
 🔗 [View Repository / Documentation](https://github.com/ElvisCR97/Weapon-Return-System)
+
+---
+
+### 🚠 Zipline Weapon System
+
+Advanced traversal mechanic in Unreal Engine 5 that allows players to shoot and dynamically construct fully customizable ziplines on any surface.
+
+🔍 **Components:**
+
+* **Momentum Physics Calculation:** Mathematical implementation for fluid acceleration, inertia, and real-time direction changes during traversal.
+* **Obstacle Detection:** Adaptive line tracing system to check constraints and prevent mesh clipping during movement.
+* **Modular Components:** Designed as independent Actor Components for seamless integration into any character or weapon via Blueprints.
+
+🎯 **Impact:** ✔️ Full real-time control over weapon range, usage limits, and custom meshes. ✔️ Decoupled mechanic that facilitates quick migration to new prototypes within minutes.
+
+🔗 [View Repository / Documentation](https://github.com/ElvisCR97/Zipline-Weapon-System)
