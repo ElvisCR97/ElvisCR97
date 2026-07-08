@@ -113,6 +113,33 @@ Advanced mobile interface infrastructure for Unreal Engine designed exclusively 
 
 ---
 
+## 🛠️ Más Sistemas y Mecánicas para Unreal Engine
+
+A collection of production-ready, highly optimized gameplay architectures, mechanical toolkits, and interface systems built for Unreal Engine.
+
+| System | Platform | Core Architecture | Marketplace |
+| :--- | :---: | :--- | :---: |
+| **🪝 Easy Hook System** | PC / Console | Smart proximity target detection, state-driven dual gravity physics (Air/Ground), 100% Blueprints. | [VIEW SYSTEM](https://www.fab.com/listings/af17dca9-4e73-4e6d-8f69-ba1a30f76a01) |
+| **📱 Control Kit Deluxe** | Android / iOS | Advanced mobile input interface combining Custom HUD Mobile PRO and Easy Joystick frameworks. | [VIEW SYSTEM](https://www.fab.com/listings/424a7be3-5ab6-4dbe-ac2c-515601bbb60a) |
+| **🔫 Zipline Weapon System** | PC / Console | Advanced traversal mechanic featuring momentum physics calculations and adaptive line trace obstacle detection. | [VIEW SYSTEM](#) |
+| **🔄 Weapon Return System** | PC / Console | Advanced combat mechanic calculating complex trajectories via Bezier Curves for automatic weapon retrieval. | [VIEW SYSTEM](#) |
+| **⚡ Dynamic ZipLine** | PC / Console | Real-time velocity management and dynamic spline-based traversal infrastructure for fast-paced movement. | [VIEW SYSTEM](#) |
+| **💥 Multi Attack System** | PC / Console | Multi-strike directional combat infrastructure featuring modular weapon animation blending and collision tracing. | [VIEW SYSTEM](#) |
+| **📦 Mobile Inventory Kit** | Android / iOS | Highly optimized structural database for dynamic item storage, drag-and-drop interfaces, and slot management. | [VIEW SYSTEM](#) |
+| **🛹 Ultimate Grind System** | PC / Console | Advanced physics-based rail-grinding mechanic with real-time vector balancing and dynamic spline snapping. | [VIEW SYSTEM](#) |
+| **🏔️ Grinding Kit Deluxe** | PC / Console | Comprehensive movement bundle combining Grinding Physics Core mechanics and advanced traversal logic. | [VIEW SYSTEM](#) |
+| **🛹 Grinding Physics Core** | PC / Console | Lightweight, dedicated physics sub-system managing sliding friction, acceleration curves, and slope momentum. | [VIEW SYSTEM](#) |
+| **🎮 Control Kit Deluxe S2** | Android / iOS | Next-generation mobile layout framework featuring modular screen configurations and advanced input binding. | [VIEW SYSTEM](#) |
+| **🕹️ Easy Joystick** | Android / iOS | Encapsulated touch input component offering runtime sizing, deadzone profiling, and vector anchoring. | [VIEW SYSTEM](#) |
+| **📺 Custom HUD Mobile PRO** | Android / iOS | Independent mobile widget layout engine for real-time positioning, scaling, and visibility adjustment of buttons. | [VIEW SYSTEM](#) |
+| **🎭 Hero Select PRO** | PC / Console / Mobile | Data-driven character selection interface with integrated stat tracking and modular 3D character display logic. | [VIEW SYSTEM](#) |
+| **🗺️ Mobile Game Template** | Android / iOS | Production-ready boilerplate project containing pre-configured mobile inputs, basic UI navigation, and optimization layouts. | [VIEW SYSTEM](#) |
+| **🏗️ Advanced Mechanics V1** | PC / Console | Legacy movement and interaction architecture bundle designed for foundational gameplay prototyping. | [VIEW SYSTEM](#) |
+
+*Click on each system name to view in FAB.*
+
+---
+
 ## 🛠️ Skills Técnicos
 
 ### 🎮 Game Engines & Core
