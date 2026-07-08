@@ -79,6 +79,23 @@ Advanced traversal mechanic in Unreal Engine 5 that allows players to shoot and 
 
 ---
 
+### 🪝 Easy Hook System
+
+Advanced grappling hook infrastructure for Unreal Engine that enables swift, responsive, and highly customizable traversal mechanics with built-in multiplayer compatibility.
+
+🔍 **Components:**
+
+* **Smart Proximity & Environment Detection:** Multi-directional line tracing and adaptive height measurement to identify valid anchor points and dynamic target surfaces.
+* **State-Driven Gravity Modes:** Advanced physics integration featuring independent Air and Ground Gravity modes to accurately manage character momentum across diverse states.
+* **Plug-and-Play Component Architecture:** Fully encapsulated Actor Component designed for decoupled integration, instantly injecting all grappling logic into any character profile via Blueprints.
+* **Deep Customization Interface:** Exposed structural variables allowing real-time modification of 3D detection widgets, cable hooks, launch vectors, and impact coordinates.
+
+🎯 **Impact:** ✔️ Out-of-the-box support for modular movement frameworks (such as Advanced Locomotion System). ✔️ Complete aesthetic control over integrated VFX particles, sound sub-systems, and contextual animation triggers.
+
+🔗 [View Repository / Documentation](https://github.com)
+
+---
+
 ## 🛠️ Skills Técnicos
 
 ### 🎮 Game Engines & Core
