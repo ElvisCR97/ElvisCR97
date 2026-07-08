@@ -61,7 +61,7 @@ Advanced combat mechanic in Unreal Engine 5 that calculates complex trajectories
 
 ---
 
-### 🚠 Zipline Weapon System
+### 🔫 Zipline Weapon System
 
 Advanced traversal mechanic in Unreal Engine 5 that allows players to shoot and dynamically construct fully customizable ziplines on any surface.
 
